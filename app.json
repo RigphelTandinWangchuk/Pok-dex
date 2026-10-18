@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Pokedex 02240167",
+    "slug": "pokedex-02240167",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#050505",
+    "ios": { "supportsTablet": true },
+    "android": { "backgroundColor": "#050505" },
+    "plugins": [
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/splash-icon.png",
+          "imageWidth": 240,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    ]
+  }
+}
